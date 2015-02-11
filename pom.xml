@@ -6,7 +6,7 @@
   <artifactId>boundary-plugin-snmp</artifactId>
   <packaging>jar</packaging>
   <version>00.01.00</version>
-  <name>boundary_plugin_shell</name>
+  <name>boundary_plugin_snmp</name>
   <description>Boundary Plugin for SNMP allows the collection of metrics from SNMP agents</description>
   <url>https://github.com/boundary/boundary-plugin-snmp</url>
   <properties>
