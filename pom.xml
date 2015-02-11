@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.boundary</groupId>
-  <artifactId>boundary-plugin-shell</artifactId>
+  <artifactId>boundary-plugin-snmp</artifactId>
   <packaging>jar</packaging>
-  <version>00.04.00</version>
+  <version>00.01.00</version>
   <name>boundary_plugin_shell</name>
   <description>Boundary Plugin for SNMP allows the collection of metrics from SNMP agents</description>
   <url>https://github.com/boundary/boundary-plugin-shell</url>
